@@ -1,3 +1,4 @@
 import './lib/lib';
 
-$('div').toggle().toggle();
+$('div').toggleClass('active');
+
